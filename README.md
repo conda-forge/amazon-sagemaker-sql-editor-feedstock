@@ -1,4 +1,4 @@
-About amazon-sagemaker-sql-editor-feedstock
+About amazon_sagemaker_sql_editor-feedstock
 ===========================================
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/amazon-sagemaker-sql-editor-feedstock/blob/main/LICENSE.txt)
@@ -27,53 +27,53 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-amazon--sagemaker--sql--editor-green.svg)](https://anaconda.org/conda-forge/amazon-sagemaker-sql-editor) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/amazon-sagemaker-sql-editor.svg)](https://anaconda.org/conda-forge/amazon-sagemaker-sql-editor) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/amazon-sagemaker-sql-editor.svg)](https://anaconda.org/conda-forge/amazon-sagemaker-sql-editor) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/amazon-sagemaker-sql-editor.svg)](https://anaconda.org/conda-forge/amazon-sagemaker-sql-editor) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-amazon_sagemaker_sql_editor-green.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/amazon_sagemaker_sql_editor.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/amazon_sagemaker_sql_editor.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/amazon_sagemaker_sql_editor.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) |
 
-Installing amazon-sagemaker-sql-editor
+Installing amazon_sagemaker_sql_editor
 ======================================
 
-Installing `amazon-sagemaker-sql-editor` from the `conda-forge` channel can be achieved by adding `conda-forge` to your channels with:
+Installing `amazon_sagemaker_sql_editor` from the `conda-forge` channel can be achieved by adding `conda-forge` to your channels with:
 
 ```
 conda config --add channels conda-forge
 conda config --set channel_priority strict
 ```
 
-Once the `conda-forge` channel has been enabled, `amazon-sagemaker-sql-editor` can be installed with `conda`:
+Once the `conda-forge` channel has been enabled, `amazon_sagemaker_sql_editor` can be installed with `conda`:
 
 ```
-conda install amazon-sagemaker-sql-editor
-```
-
-or with `mamba`:
-
-```
-mamba install amazon-sagemaker-sql-editor
-```
-
-It is possible to list all of the versions of `amazon-sagemaker-sql-editor` available on your platform with `conda`:
-
-```
-conda search amazon-sagemaker-sql-editor --channel conda-forge
+conda install amazon_sagemaker_sql_editor
 ```
 
 or with `mamba`:
 
 ```
-mamba search amazon-sagemaker-sql-editor --channel conda-forge
+mamba install amazon_sagemaker_sql_editor
+```
+
+It is possible to list all of the versions of `amazon_sagemaker_sql_editor` available on your platform with `conda`:
+
+```
+conda search amazon_sagemaker_sql_editor --channel conda-forge
+```
+
+or with `mamba`:
+
+```
+mamba search amazon_sagemaker_sql_editor --channel conda-forge
 ```
 
 Alternatively, `mamba repoquery` may provide more information:
 
 ```
 # Search all versions available on your platform:
-mamba repoquery search amazon-sagemaker-sql-editor --channel conda-forge
+mamba repoquery search amazon_sagemaker_sql_editor --channel conda-forge
 
-# List packages depending on `amazon-sagemaker-sql-editor`:
-mamba repoquery whoneeds amazon-sagemaker-sql-editor --channel conda-forge
+# List packages depending on `amazon_sagemaker_sql_editor`:
+mamba repoquery whoneeds amazon_sagemaker_sql_editor --channel conda-forge
 
-# List dependencies of `amazon-sagemaker-sql-editor`:
-mamba repoquery depends amazon-sagemaker-sql-editor --channel conda-forge
+# List dependencies of `amazon_sagemaker_sql_editor`:
+mamba repoquery depends amazon_sagemaker_sql_editor --channel conda-forge
 ```
 
 
@@ -118,17 +118,17 @@ Terminology
                   produce the finished article (built conda distributions)
 
 
-Updating amazon-sagemaker-sql-editor-feedstock
+Updating amazon_sagemaker_sql_editor-feedstock
 ==============================================
 
-If you would like to improve the amazon-sagemaker-sql-editor recipe or build a new
+If you would like to improve the amazon_sagemaker_sql_editor recipe or build a new
 package version, please fork this repository and submit a PR. Upon submission,
 your changes will be run on the appropriate platforms to give the reviewer an
 opportunity to confirm that the changes result in a successful build. Once
 merged, the recipe will be re-built and uploaded automatically to the
 `conda-forge` channel, whereupon the built conda packages will be available for
 everybody to install and use from the `conda-forge` channel.
-Note that all branches in the conda-forge/amazon-sagemaker-sql-editor-feedstock are
+Note that all branches in the conda-forge/amazon_sagemaker_sql_editor-feedstock are
 immediately built and any created packages are uploaded, so PRs should be based
 on branches in forks and branches in the main repository should only be used to
 build distinct package versions.
