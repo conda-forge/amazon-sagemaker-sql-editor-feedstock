@@ -26,6 +26,7 @@ requirements:
     - hatch-jupyter-builder
   run:
     - python >=3.8
+    - mysql2 >=3.9.8
     - jupyterlab-lsp ==5.0.*
     - diskcache ==5.6.*
     - jupyter_server
