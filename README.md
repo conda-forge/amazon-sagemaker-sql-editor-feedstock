@@ -145,7 +145,9 @@ Feedstock Maintainers
 
 * [@HariniNarayanan](https://github.com/HariniNarayanan/)
 * [@bhadrip](https://github.com/bhadrip/)
+* [@chad119](https://github.com/chad119/)
 * [@gogakoreli](https://github.com/gogakoreli/)
 * [@kumarnzt](https://github.com/kumarnzt/)
+* [@nileshvd](https://github.com/nileshvd/)
 * [@varun196](https://github.com/varun196/)
 
