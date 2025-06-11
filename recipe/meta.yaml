@@ -1,5 +1,5 @@
 {% set name = "amazon_sagemaker_sql_editor" %}
-{% set version = "0.1.16" %}
+{% set version = "0.1.18" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/amazon_sagemaker_sql_editor-{{ version }}.tar.gz
-  sha256: 3346f3c58eaba61c16dcbb3de7efd8791ea942d687837f5571dd9b1536ec5508
+  sha256: e9c8729a2c9e39766d73e30588260619742cdaff0712dcca97bf89c86655092f
 
 build:
   noarch: python
@@ -32,6 +32,7 @@ requirements:
     - botocore >=1.31.64,<2
     - aiobotocore >=2.7.0,<3
     - boto3 >=1.29.6,<2
+    - sagemaker-jupyterlab-extension-common >=0.2.1,<1
     - amazon-sagemaker-sql-execution >=0.0.7,<1
 
 test:
