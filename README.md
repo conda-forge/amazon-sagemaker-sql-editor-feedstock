@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-amazon_sagemaker_sql_editor-green.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/amazon_sagemaker_sql_editor.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/amazon_sagemaker_sql_editor.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/amazon_sagemaker_sql_editor.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-amazon__sagemaker__sql__editor-green.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/amazon_sagemaker_sql_editor.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/amazon_sagemaker_sql_editor.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/amazon_sagemaker_sql_editor.svg)](https://anaconda.org/conda-forge/amazon_sagemaker_sql_editor) |
 
 Installing amazon_sagemaker_sql_editor
 ======================================
@@ -150,7 +150,4 @@ Feedstock Maintainers
 * [@kumarnzt](https://github.com/kumarnzt/)
 * [@nileshvd](https://github.com/nileshvd/)
 * [@varun196](https://github.com/varun196/)
-
-
-<!-- dummy commit to enable rerendering -->
 
