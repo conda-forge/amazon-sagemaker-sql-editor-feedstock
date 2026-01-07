@@ -145,6 +145,7 @@ Feedstock Maintainers
 
 * [@HariniNarayanan](https://github.com/HariniNarayanan/)
 * [@aakashmandavilli96](https://github.com/aakashmandavilli96/)
+* [@aws-brianxia](https://github.com/aws-brianxia/)
 * [@aws-jasakshi](https://github.com/aws-jasakshi/)
 * [@bhadrip](https://github.com/bhadrip/)
 * [@chad119](https://github.com/chad119/)
@@ -153,7 +154,4 @@ Feedstock Maintainers
 * [@nileshvd](https://github.com/nileshvd/)
 * [@sgganjo](https://github.com/sgganjo/)
 * [@varun196](https://github.com/varun196/)
-
-
-<!-- dummy commit to enable rerendering -->
 
