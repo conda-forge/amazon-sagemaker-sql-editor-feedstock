@@ -51,6 +51,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - aws-brianxia
     - sgganjo
     - aws-jasakshi
     - aakashmandavilli96
