@@ -151,10 +151,8 @@ Feedstock Maintainers
 * [@chad119](https://github.com/chad119/)
 * [@gogakoreli](https://github.com/gogakoreli/)
 * [@kumarnzt](https://github.com/kumarnzt/)
+* [@msgupta-amazon](https://github.com/msgupta-amazon/)
 * [@nileshvd](https://github.com/nileshvd/)
 * [@sgganjo](https://github.com/sgganjo/)
 * [@varun196](https://github.com/varun196/)
-
-
-<!-- dummy commit to enable rerendering -->
 
