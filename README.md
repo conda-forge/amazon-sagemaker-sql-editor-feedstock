@@ -13,11 +13,10 @@ Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=21751&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/amazon-sagemaker-sql-editor-feedstock?branchName=main">
-      </a>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
     </td>
   </tr>
 </table>
@@ -147,15 +146,14 @@ Feedstock Maintainers
 * [@aakashmandavilli96](https://github.com/aakashmandavilli96/)
 * [@aws-brianxia](https://github.com/aws-brianxia/)
 * [@aws-jasakshi](https://github.com/aws-jasakshi/)
+* [@aws-pavankks](https://github.com/aws-pavankks/)
 * [@bhadrip](https://github.com/bhadrip/)
 * [@chad119](https://github.com/chad119/)
 * [@gogakoreli](https://github.com/gogakoreli/)
+* [@joshuatowner](https://github.com/joshuatowner/)
 * [@kumarnzt](https://github.com/kumarnzt/)
 * [@msgupta-amazon](https://github.com/msgupta-amazon/)
 * [@nileshvd](https://github.com/nileshvd/)
 * [@sgganjo](https://github.com/sgganjo/)
 * [@varun196](https://github.com/varun196/)
-
-
-<!-- dummy commit to enable rerendering -->
 
