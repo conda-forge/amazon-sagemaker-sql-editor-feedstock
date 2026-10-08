@@ -1,13 +1,13 @@
 {% set name = "amazon_sagemaker_sql_editor" %}
-{% set version = "0.2.6" %}
+{% set version = "0.2.7" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/amazon_sagemaker_sql_editor-{{ version }}.tar.gz
-  sha256: 9cbbd627c0b04b3242a6f81c39fe69ccafb150b316e100422650493eacc33846
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/amazon_sagemaker_sql_editor-{{ version }}.tar.gz
+  sha256: 90ea8499a4dce62d8579e3d7f838df9c943ca7be1f9b86e2fce3a90afb526a2b
 
 build:
   noarch: python
