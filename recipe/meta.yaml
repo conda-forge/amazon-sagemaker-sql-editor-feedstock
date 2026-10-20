@@ -52,6 +52,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - henrywa2
     - joshuatowner
     - aws-pavankks
     - msgupta-amazon
