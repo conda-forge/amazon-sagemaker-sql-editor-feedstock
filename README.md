@@ -195,6 +195,7 @@ Feedstock Maintainers
 * [@bhadrip](https://github.com/bhadrip/)
 * [@chad119](https://github.com/chad119/)
 * [@gogakoreli](https://github.com/gogakoreli/)
+* [@henrywa2](https://github.com/henrywa2/)
 * [@joshuatowner](https://github.com/joshuatowner/)
 * [@kumarnzt](https://github.com/kumarnzt/)
 * [@msgupta-amazon](https://github.com/msgupta-amazon/)
